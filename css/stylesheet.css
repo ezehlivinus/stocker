@@ -1,0 +1,123 @@
+.row{
+    background-color: #FFF;
+}
+
+.footer{
+
+    min-height: 100px;
+    text-align: center;
+    background-color: #cccccc;
+    
+}
+
+
+.col1{
+    margin: 3px;
+    min-height: 400px;
+    text-align: center;
+    background-color: silver;
+}
+
+.col2{
+    margin: 3px;
+    min-height: 400px;
+    text-align: center;
+
+}
+
+.login-sign-error{
+    min-height: 200px;
+    text-align: center;
+}
+
+
+.dashboard-col1{
+    
+    margin: 3px;
+     border-radius: 5px;
+    min-height: 400px;
+    background-color: #CECCCC;
+}
+
+.dashboard-col2{
+    border-radius: 5px;
+    background-color: #CECCCC;
+    margin: 3px;
+    min-height: 400px;
+    
+    /*text-align: center;*/
+}
+
+.divider{
+    border-bottom: 1px solid gray;
+}
+
+.addstock-col{
+    border-radius: 5px;
+    min-height: 400px;
+    margin: 3px;
+}
+
+
+tr:hover{background-color: #cccccc}
+td:hover{background-color:  #a6a6a6;}
+
+
+/*
+.col3{
+    margin: 3px;
+    min-height: 300px;
+    text-align: center;
+    background-color: blue;
+}
+
+.col4{
+    margin: 3px;
+    min-height: 300px;
+    text-align: center;
+    background-color: red;
+}
+
+.col5{
+    margin: 3px;
+    min-height: 300px;
+    text-align: center;
+    background-color: darkgreen;
+}
+
+.col6{
+    margin: 3px;
+    min-height: 300px;
+    text-align: center;
+    background-color: orange;
+}
+
+.col7{
+    margin: 3px;
+    min-height: 300px;
+    text-align: center;
+    background-color: beige;
+}
+
+.colinside{
+
+    min-height: 100px;
+    text-align: center;
+    background-color: orange;
+}
+
+
+
+input{
+    margin: 5px;
+}
+
+div{
+    margin: 5px;
+}
+
+#test1{
+    margin: 5px;
+}
+
+*/

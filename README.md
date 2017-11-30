@@ -1,0 +1,1 @@
+This is a web based app for small business inventory.
